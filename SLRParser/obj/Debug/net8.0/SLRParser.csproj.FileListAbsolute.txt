@@ -1,0 +1,14 @@
+C:\Users\NIDA\source\repos\SLRParser\SLRParser\obj\Debug\net8.0\SLRParser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NIDA\source\repos\SLRParser\SLRParser\obj\Debug\net8.0\SLRParser.AssemblyInfoInputs.cache
+C:\Users\NIDA\source\repos\SLRParser\SLRParser\obj\Debug\net8.0\SLRParser.AssemblyInfo.cs
+C:\Users\NIDA\source\repos\SLRParser\SLRParser\obj\Debug\net8.0\SLRParser.csproj.CoreCompileInputs.cache
+C:\Users\NIDA\source\repos\SLRParser\SLRParser\bin\Debug\net8.0\SLRParser.exe
+C:\Users\NIDA\source\repos\SLRParser\SLRParser\bin\Debug\net8.0\SLRParser.deps.json
+C:\Users\NIDA\source\repos\SLRParser\SLRParser\bin\Debug\net8.0\SLRParser.runtimeconfig.json
+C:\Users\NIDA\source\repos\SLRParser\SLRParser\bin\Debug\net8.0\SLRParser.dll
+C:\Users\NIDA\source\repos\SLRParser\SLRParser\bin\Debug\net8.0\SLRParser.pdb
+C:\Users\NIDA\source\repos\SLRParser\SLRParser\obj\Debug\net8.0\SLRParser.dll
+C:\Users\NIDA\source\repos\SLRParser\SLRParser\obj\Debug\net8.0\refint\SLRParser.dll
+C:\Users\NIDA\source\repos\SLRParser\SLRParser\obj\Debug\net8.0\SLRParser.pdb
+C:\Users\NIDA\source\repos\SLRParser\SLRParser\obj\Debug\net8.0\SLRParser.genruntimeconfig.cache
+C:\Users\NIDA\source\repos\SLRParser\SLRParser\obj\Debug\net8.0\ref\SLRParser.dll

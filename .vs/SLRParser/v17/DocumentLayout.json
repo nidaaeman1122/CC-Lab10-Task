@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\NIDA\\source\\repos\\SLRParser\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47E49559-4F73-417A-8429-E1A7AAA36B2D}|SLRParser\\SLRParser.csproj|c:\\users\\nida\\source\\repos\\slrparser\\slrparser\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47E49559-4F73-417A-8429-E1A7AAA36B2D}|SLRParser\\SLRParser.csproj|solutionrelative:slrparser\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\NIDA\\source\\repos\\SLRParser\\SLRParser\\Program.cs",
+              "RelativeDocumentMoniker": "SLRParser\\Program.cs",
+              "ToolTip": "C:\\Users\\NIDA\\source\\repos\\SLRParser\\SLRParser\\Program.cs",
+              "RelativeToolTip": "SLRParser\\Program.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAIwI8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T07:25:14.1Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
